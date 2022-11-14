@@ -1,0 +1,12 @@
+{
+  "name": "YTDLNodeJsBOT",
+  "author": "DikaN",
+  "version": "1.1",
+  "description": "YouTube Video Downloader BOT in NodeJS",
+  "main": "main.js",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "ytdl-core": "^4.11.0"
+  }
+}
