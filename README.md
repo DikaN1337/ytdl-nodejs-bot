@@ -8,8 +8,8 @@ Installation:
 4. Run *node main.js*
 
 Usage:
-1. Insert the YouTube URL
+1. Insert the **complete** YouTube URL (*Example: https://www.youtube.com/watch?v=_E9P8Bulf8s*)
 2. Confirm the data
-3. Check if the video works.
+3. Check if the video works. The video is saved NAME.mp4
 
 PS: It downloads the video in the best possible quality.
